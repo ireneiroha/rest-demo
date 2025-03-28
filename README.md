@@ -12,7 +12,7 @@ Authentication: Secure endpoints with JWT authentication.
 
 Pagination & Filtering: Retrieve vendors efficiently.
 
-Database Support: Supports PostgreSQL, MongoDB, or MySQL.
+Database Support: MySQL.
 
 Logging & Monitoring: Built-in logging for debugging and tracking API requests.
 
